@@ -19,7 +19,7 @@
 
 ```ts
 const manoj = {
-  title: "B.Tech CS Student | Aspiring Data Analyst",
+  title: "B.Tech DS Student | Aspiring Data Analyst",
   stack: [
     "Python", "Pandas", "NumPy", "Matplotlib", "Seaborn",
     "SQL", "MySQL", "PostgreSQL",
